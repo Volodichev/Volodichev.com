@@ -1,0 +1,149 @@
+[
+  {
+    "title": "VendBox",
+    "description": "IoT vending machine backend ecosystem",
+    "tags": ["fastapi", "iot", "sqlalchemy", "redis"],
+    "github": null,
+    "featured": true,
+    "details": [
+      "Device heartbeat endpoint",
+      "Slot/product domain logic",
+      "Partner subscription model",
+      "Async processing via Celery"
+    ]
+  },
+  {
+    "title": "Alliance B2B Platform",
+    "description": "CRM & order lifecycle management system",
+    "tags": ["django", "drf", "celery"],
+    "github": null,
+    "featured": true,
+    "details": [
+      "Complex order state machine",
+      "1C bidirectional exchange",
+      "Background task processing",
+      "Postgres + Redis"
+    ]
+  },
+  {
+    "title": "Telemedicine Platform",
+    "description": "Medical system with integration to KSA MU (Медицина ИТ)",
+    "tags": ["fastapi", "healthcare", "integration", "api"],
+    "github": null,
+    "featured": true,
+    "details": [
+      "Data exchange with KSA MU medical system",
+      "Patient workflow automation",
+      "Secure API integrations",
+      "Healthcare domain logic"
+    ]
+  },
+    {
+    "title": "SMM Monitoring System",
+    "description": "Telegram/VK monitoring with AI integrations",
+    "tags": ["fastapi", "telegram", "vk", "ai", "ollama"],
+    "github": null,
+    "featured": true,
+    "details": [
+      "TG web parsing",
+      "ChatGPT API integration",
+      "Content classification",
+      "Automation workflows"
+    ]
+  },
+
+  {
+    "title": "Stock Market Data Service",
+    "description": "EOD historical data processing",
+    "tags": ["fastapi", "trading", "pandas", "finance"],
+    "github": null,
+    "featured": true,
+    "details": [
+      "Market data ingestion",
+      "Currency service",
+      "Analytics processing"
+    ]
+  },
+  {
+    "title": "SMS & SimBank Software",
+    "description": "Sending and receiving SMS via SIM-bank",
+    "tags": ["gsm", "simbank", "telecom", "backend"],
+    "github": null,
+    "featured": true,
+    "details": [
+      "SMS sending & receiving automation",
+      "SIM-bank management",
+      "Telecom gateway integration",
+      "High-throughput SMS processing"
+    ]
+  },
+  {
+    "title": "OTP Service",
+    "description": "Authorization SMS service",
+    "tags": ["fastapi", "otp", "megafon", "sms", "auth"],
+    "github": null,
+    "featured": true,
+    "details": [
+      "Authorization code delivery",
+      "Integration with MegaFon SMS gateway",
+      "Rate limiting & retry logic",
+      "Production-ready reliability"
+    ]
+  },
+  {
+    "title": "Beauty Salon Website",
+    "description": "Salon management platform with 1C",
+    "tags": ["fastapi", "1c","youkassa", "cdek"],
+    "github": null,
+    "featured": true,
+    "details": [
+      "Online booking system",
+      "Bidirectional exchange with 1C",
+      "Order & client synchronization",
+      "Business workflow automation",
+    "Youkassa API",
+      "CDEK API",
+      "Russian Post API"
+    ]
+  },
+  {
+    "title": "MTS Hackathon",
+    "description": "Robotics automation using Webots API",
+    "tags": ["hackathon", "webots", "fastapi", "unreal api"],
+    "github": null,
+    "featured": true,
+    "details": [
+      "Webots API integration",
+      "Robotics automation logic",
+      "Competition prototype development",
+      "Unreal Engine API",
+      "OBS Websocket",
+      "Docker API automation"    ]
+  },
+  {
+    "title": "Smartphone Automation",
+    "description": "Smartphone control and automation via ADB",
+    "tags": ["adb", "opencv", "django", "fastapi"],
+    "github": null,
+    "featured": true,
+    "details": [
+      "Device control via ADB",
+      "Screen recognition using OpenCV",
+      "Automation scenarios",
+      "Image-based interaction logic"
+    ]
+  },
+  {
+    "title": "Private Jet Booking Service",
+    "description": "Private aviation booking platform backend",
+    "tags": ["aviation", "booking", "business", "email"],
+    "github": null,
+    "featured": true,
+    "details": [
+      "Jet booking workflow",
+      "Order lifecycle management",
+      "Business logic & pricing rules",
+      "API-driven architecture"
+    ]
+  }
+]

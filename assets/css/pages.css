@@ -1,0 +1,37 @@
+.hero {
+    margin: 120px 0 100px;
+}
+
+.hero h1 {
+    font-size: 44px;
+    margin-bottom: 16px;
+}
+
+.hero__subtitle {
+    color: var(--text-muted);
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.hero__actions {
+    display: flex;
+    gap: 16px;
+}
+
+.experience-block {
+    margin-bottom: 60px;
+}
+
+.experience-block h2 {
+    margin-bottom: 16px;
+}
+
+.experience-block ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.experience-block li {
+    margin-bottom: 8px;
+    color: var(--text-muted);
+}
