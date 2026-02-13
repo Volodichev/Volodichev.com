@@ -3,7 +3,7 @@ async function loadProjects() {
         const response = await fetch("assets/data/projects.json");
 
         if (!response.ok) {
-            throw new Error("HTTP error " + response.status);
+            throw new Error("Failed to load projects.json");
         }
 
         const projects = await response.json();
@@ -18,6 +18,15 @@ function createProjectCard(project) {
     const card = document.createElement("div");
     card.className = "card";
 
+    let imageHTML = "";
+    if (project.image) {
+        imageHTML = `
+            <img class="card__image"
+                 src="${project.image}"
+                 alt="${project.title}">
+        `;
+    }
+
     const tagsHTML = project.tags
         .map(tag => `<span class="tag">${tag}</span>`)
         .join("");
@@ -30,6 +39,7 @@ function createProjectCard(project) {
 
     card.innerHTML = `
         <h3>${project.title}</h3>
+        ${imageHTML}
         <p>${project.description}</p>
         <div style="margin-top:10px;">${tagsHTML}</div>
         ${detailsHTML}
