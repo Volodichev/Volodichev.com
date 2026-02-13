@@ -2,7 +2,7 @@
   {
     "title": "VendBox",
     "description": "IoT vending machine backend ecosystem",
-    "image": "assets/img/projects/vendbox.svg",
+    "image": "assets/img/projects/vendbox.png",
     "tags": ["fastapi", "iot", "sqlalchemy", "redis"],
     "github": null,
     "featured": true,
@@ -16,7 +16,7 @@
   {
     "title": "Alliance B2B CRM",
     "description": "CRM & order lifecycle management system",
-    "image": "assets/img/projects/alliance.svg",
+    "image": "assets/img/projects/alliance.png",
     "tags": ["django", "DRF", "celery"],
     "github": null,
     "featured": true,
@@ -30,7 +30,7 @@
   {
     "title": "Telemedicine Platform",
     "description": "Medical system with integration to KSA MU (Медицина ИТ)",
-    "image": "assets/img/projects/telemedicine.svg",
+    "image": "assets/img/projects/telemedicine.png",
     "tags": ["fastapi", "healthcare", "integration", "api"],
     "github": null,
     "featured": true,
@@ -44,7 +44,7 @@
     {
     "title": "Social Monitoring System",
     "description": "Telegram/VK monitoring with AI integrations",
-    "image": "assets/img/projects/monitoring.svg",
+    "image": "assets/img/projects/monitoring.png",
     "tags": ["fastapi", "telegram", "vk", "ai", "ollama"],
     "github": null,
     "featured": true,
@@ -59,7 +59,7 @@
   {
     "title": "Stock Market Data Service",
     "description": "EOD historical data processing",
-    "image": "assets/img/projects/stocks.svg",
+    "image": "assets/img/projects/stocks.png",
     "tags": ["fastapi", "trading", "pandas", "finance"],
     "github": null,
     "featured": true,
@@ -72,7 +72,7 @@
   {
     "title": "SMS & SimBank Software",
     "description": "Sending and receiving SMS via SIM-bank",
-    "image": "assets/img/projects/simbank.svg",
+    "image": "assets/img/projects/simbank.png",
     "tags": ["gsm", "simbank", "telecom", "backend"],
     "github": null,
     "featured": true,
@@ -116,7 +116,7 @@
   },
   {
     "title": "Hackathon automation",
-    "description": "Robotics automation using Webots API MTS Hackathon",
+    "description": "Robotics automation using Webots API МТС True Tech",
     "image": "assets/img/projects/hackathon.svg",
     "tags": ["hackathon", "webots", "fastapi", "unreal api"],
     "github": null,
