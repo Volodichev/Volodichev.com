@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" fill="none">
+  <defs>
+    <linearGradient id="bg-jet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F2937"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="24" fill="url(#bg-jet)"/>
+  <path d="M140 200 L460 170 L540 190 L460 210 Z" fill="rgba(255,255,255,0.28)"/>
+  <path d="M460 170 L520 120 L540 190 Z" fill="rgba(255,255,255,0.22)"/>
+  <rect x="200" y="185" width="160" height="12" rx="6" fill="rgba(255,255,255,0.45)"/>
+  <circle cx="230" cy="190" r="5" fill="rgba(255,255,255,0.7)"/>
+  <circle cx="250" cy="190" r="5" fill="rgba(255,255,255,0.7)"/>
+  <circle cx="270" cy="190" r="5" fill="rgba(255,255,255,0.7)"/>
+</svg>

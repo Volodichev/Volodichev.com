@@ -2,6 +2,7 @@
   {
     "title": "VendBox",
     "description": "IoT vending machine backend ecosystem",
+    "image": "assets/img/projects/vendbox.svg",
     "tags": ["fastapi", "iot", "sqlalchemy", "redis"],
     "github": null,
     "featured": true,
@@ -13,9 +14,10 @@
     ]
   },
   {
-    "title": "Alliance B2B Platform",
+    "title": "Alliance B2B CRM",
     "description": "CRM & order lifecycle management system",
-    "tags": ["django", "drf", "celery"],
+    "image": "assets/img/projects/alliance.svg",
+    "tags": ["django", "DRF", "celery"],
     "github": null,
     "featured": true,
     "details": [
@@ -28,6 +30,7 @@
   {
     "title": "Telemedicine Platform",
     "description": "Medical system with integration to KSA MU (Медицина ИТ)",
+    "image": "assets/img/projects/telemedicine.svg",
     "tags": ["fastapi", "healthcare", "integration", "api"],
     "github": null,
     "featured": true,
@@ -39,8 +42,9 @@
     ]
   },
     {
-    "title": "SMM Monitoring System",
+    "title": "Social Monitoring System",
     "description": "Telegram/VK monitoring with AI integrations",
+    "image": "assets/img/projects/monitoring.svg",
     "tags": ["fastapi", "telegram", "vk", "ai", "ollama"],
     "github": null,
     "featured": true,
@@ -55,6 +59,7 @@
   {
     "title": "Stock Market Data Service",
     "description": "EOD historical data processing",
+    "image": "assets/img/projects/stocks.svg",
     "tags": ["fastapi", "trading", "pandas", "finance"],
     "github": null,
     "featured": true,
@@ -67,6 +72,7 @@
   {
     "title": "SMS & SimBank Software",
     "description": "Sending and receiving SMS via SIM-bank",
+    "image": "assets/img/projects/simbank.svg",
     "tags": ["gsm", "simbank", "telecom", "backend"],
     "github": null,
     "featured": true,
@@ -80,6 +86,7 @@
   {
     "title": "OTP Service",
     "description": "Authorization SMS service",
+    "image": "assets/img/projects/otp.svg",
     "tags": ["fastapi", "otp", "megafon", "sms", "auth"],
     "github": null,
     "featured": true,
@@ -93,6 +100,7 @@
   {
     "title": "Beauty Salon Website",
     "description": "Salon management platform with 1C",
+    "image": "assets/img/projects/beauty.svg",
     "tags": ["fastapi", "1c","youkassa", "cdek"],
     "github": null,
     "featured": true,
@@ -107,8 +115,9 @@
     ]
   },
   {
-    "title": "MTS Hackathon",
-    "description": "Robotics automation using Webots API",
+    "title": "Hackathon automation",
+    "description": "Robotics automation using Webots API MTS Hackathon",
+    "image": "assets/img/projects/hackathon.svg",
     "tags": ["hackathon", "webots", "fastapi", "unreal api"],
     "github": null,
     "featured": true,
@@ -123,6 +132,7 @@
   {
     "title": "Smartphone Automation",
     "description": "Smartphone control and automation via ADB",
+    "image": "assets/img/projects/smartphone.svg",
     "tags": ["adb", "opencv", "django", "fastapi"],
     "github": null,
     "featured": true,
@@ -136,6 +146,7 @@
   {
     "title": "Private Jet Booking Service",
     "description": "Private aviation booking platform backend",
+    "image": "assets/img/projects/jet.svg",
     "tags": ["aviation", "booking", "business", "email"],
     "github": null,
     "featured": true,
