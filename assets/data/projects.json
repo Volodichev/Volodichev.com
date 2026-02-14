@@ -1,7 +1,7 @@
 [
   {
     "title": "Vending Machine Ecosystem",
-    "description": "VendBox IoT vending machine backend ecosystem",
+    "description": "Backend ecosystem for managing IoT vending machines and partner subscriptions.",
     "image": "assets/img/projects/vendbox.png",
     "tags": [
       "fastapi",
@@ -12,33 +12,37 @@
     "github": null,
     "featured": true,
     "details": [
-      "Device heartbeat endpoint",
-      "Slot/product domain logic",
-      "Partner subscription model",
-      "Async processing via Celery"
+      "Device heartbeat & telemetry",
+      "Slot & product logic",
+      "Partner subscriptions (multi-tenant)",
+      "REST API for devices & partners",
+      "Scalable FastAPI + Redis backend"
     ]
   },
   {
     "title": "Aero Parts B2B CRM",
-    "description": "Alliance CRM & order lifecycle management system",
+    "description": "B2B CRM and order lifecycle management platform for aerospace parts distribution",
     "image": "assets/img/projects/alliance.png",
     "tags": [
       "django",
       "DRF",
-      "celery"
+      "celery",
+      "redis",
+      "postgresql"
     ],
     "github": null,
     "featured": true,
     "details": [
-      "Complex order state machine",
-      "1C bidirectional exchange",
-      "Background task processing",
-      "Postgres + Redis"
+      "Order lifecycle management",
+      "Strict order state machine",
+      "RBAC for B2B roles",
+      "Async processing via Celery",
+      "Redis as broker & cache"
     ]
   },
   {
-    "title": "Beauty Salon App and Website",
-    "description": "Salon management platform with 1C",
+    "title": "Beauty Salon App & Website",
+    "description": "Salon management platform with 1C integration",
     "image": "assets/img/projects/beauty.png",
     "tags": [
       "fastapi",
@@ -49,18 +53,16 @@
     "github": null,
     "featured": true,
     "details": [
-      "Online booking system",
-      "Bidirectional exchange with 1C",
-      "Order & client synchronization",
-      "Business workflow automation",
-      "Youkassa API",
-      "CDEK API",
-      "Russian Post API"
+      "Online booking & schedule management",
+      "Bidirectional 1C data sync",
+      "Orders & clients synchronization",
+      "Payment integration (YooKassa)",
+      "Delivery integration (CDEK, Russian Post)"
     ]
   },
   {
     "title": "Telemedicine Platform",
-    "description": "Medical system with integration to KSA MU (Медицина ИТ)",
+    "description": "Healthcare platform with KSAMU integration",
     "image": "assets/img/projects/telemedicine.png",
     "tags": [
       "fastapi",
@@ -71,10 +73,10 @@
     "github": null,
     "featured": true,
     "details": [
-      "Data exchange with KSA MU medical system",
-      "Patient workflow automation",
-      "Secure API integrations",
-      "Healthcare domain logic"
+      "Bidirectional integration with KSA MU",
+      "Patient appointment & treatment workflow",
+      "Secure medical data exchange (API)",
+      "Healthcare domain-driven architecture"
     ]
   },
   {
@@ -85,21 +87,20 @@
       "fastapi",
       "telegram",
       "vk",
-      "ai",
       "ollama"
     ],
     "github": null,
     "featured": true,
     "details": [
-      "TG web parsing",
-      "ChatGPT API integration",
-      "Content classification",
-      "Automation workflows"
+      "Telegram & VK data collection",
+      "AI-based content classification",
+      "LLM integration (Ollama / OpenAI)",
+      "Automated alerting & workflows"
     ]
   },
   {
     "title": "Task Solutions Autocheck",
-    "description": "Robotics automation using Webots API МТС True Tech Hackathon",
+    "description": "Robotics automation system (True Tech Hackathon)",
     "image": "assets/img/projects/hackathon.png",
     "tags": [
       "hackathon",
@@ -110,12 +111,11 @@
     "github": null,
     "featured": true,
     "details": [
-      "Webots API integration",
-      "Robotics automation logic",
-      "Competition prototype development",
+      "Webots simulation & API integration",
+      "Autonomous robotics control logic",
+      "FastAPI Docker-based backend for orchestration",
       "Unreal Engine API",
-      "OBS Websocket",
-      "Docker API automation"
+      "OBS Websocket"
     ]
   },
   {
