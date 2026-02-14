@@ -1,9 +1,14 @@
 [
   {
-    "title": "VendBox",
-    "description": "IoT vending machine backend ecosystem",
+    "title": "Vending Machine Ecosystem",
+    "description": "VendBox IoT vending machine backend ecosystem",
     "image": "assets/img/projects/vendbox.png",
-    "tags": ["fastapi", "iot", "sqlalchemy", "redis"],
+    "tags": [
+      "fastapi",
+      "iot",
+      "sqlalchemy",
+      "redis"
+    ],
     "github": null,
     "featured": true,
     "details": [
@@ -14,10 +19,14 @@
     ]
   },
   {
-    "title": "Alliance B2B CRM",
-    "description": "CRM & order lifecycle management system",
+    "title": "Aero Parts B2B CRM",
+    "description": "Alliance CRM & order lifecycle management system",
     "image": "assets/img/projects/alliance.png",
-    "tags": ["django", "DRF", "celery"],
+    "tags": [
+      "django",
+      "DRF",
+      "celery"
+    ],
     "github": null,
     "featured": true,
     "details": [
@@ -28,10 +37,37 @@
     ]
   },
   {
+    "title": "Beauty Salon App and Website",
+    "description": "Salon management platform with 1C",
+    "image": "assets/img/projects/beauty.png",
+    "tags": [
+      "fastapi",
+      "1c",
+      "youkassa",
+      "cdek"
+    ],
+    "github": null,
+    "featured": true,
+    "details": [
+      "Online booking system",
+      "Bidirectional exchange with 1C",
+      "Order & client synchronization",
+      "Business workflow automation",
+      "Youkassa API",
+      "CDEK API",
+      "Russian Post API"
+    ]
+  },
+  {
     "title": "Telemedicine Platform",
     "description": "Medical system with integration to KSA MU (Медицина ИТ)",
     "image": "assets/img/projects/telemedicine.png",
-    "tags": ["fastapi", "healthcare", "integration", "api"],
+    "tags": [
+      "fastapi",
+      "healthcare",
+      "integration",
+      "api"
+    ],
     "github": null,
     "featured": true,
     "details": [
@@ -41,11 +77,17 @@
       "Healthcare domain logic"
     ]
   },
-    {
-    "title": "Social Monitoring System",
-    "description": "Telegram/VK monitoring with AI integrations",
+  {
+    "title": "Social Media Monitoring System",
+    "description": "Telegram/VK monitoring with AI integrations for developer company",
     "image": "assets/img/projects/monitoring.png",
-    "tags": ["fastapi", "telegram", "vk", "ai", "ollama"],
+    "tags": [
+      "fastapi",
+      "telegram",
+      "vk",
+      "ai",
+      "ollama"
+    ],
     "github": null,
     "featured": true,
     "details": [
@@ -55,12 +97,56 @@
       "Automation workflows"
     ]
   },
-
+  {
+    "title": "Task Solutions Autocheck",
+    "description": "Robotics automation using Webots API МТС True Tech Hackathon",
+    "image": "assets/img/projects/hackathon.png",
+    "tags": [
+      "hackathon",
+      "webots",
+      "fastapi",
+      "unreal api"
+    ],
+    "github": null,
+    "featured": true,
+    "details": [
+      "Webots API integration",
+      "Robotics automation logic",
+      "Competition prototype development",
+      "Unreal Engine API",
+      "OBS Websocket",
+      "Docker API automation"
+    ]
+  },
+  {
+    "title": "Private Jet Booking Service",
+    "description": "Private aviation booking platform backend",
+    "image": "assets/img/projects/jet.png",
+    "tags": [
+      "aviation",
+      "booking",
+      "business",
+      "email"
+    ],
+    "github": null,
+    "featured": true,
+    "details": [
+      "Jet booking workflow",
+      "Order lifecycle management",
+      "Business logic & pricing rules",
+      "API-driven architecture"
+    ]
+  },
   {
     "title": "Stock Market Data Service",
     "description": "EOD historical data processing",
     "image": "assets/img/projects/stocks.png",
-    "tags": ["fastapi", "trading", "pandas", "finance"],
+    "tags": [
+      "fastapi",
+      "trading",
+      "pandas",
+      "finance"
+    ],
     "github": null,
     "featured": true,
     "details": [
@@ -70,24 +156,16 @@
     ]
   },
   {
-    "title": "SMS & SimBank Software",
-    "description": "Sending and receiving SMS via SIM-bank",
-    "image": "assets/img/projects/simbank.png",
-    "tags": ["gsm", "simbank", "telecom", "backend"],
-    "github": null,
-    "featured": true,
-    "details": [
-      "SMS sending & receiving automation",
-      "SIM-bank management",
-      "Telecom gateway integration",
-      "High-throughput SMS processing"
-    ]
-  },
-  {
-    "title": "OTP Service",
+    "title": "OTP Authorization Service",
     "description": "Authorization SMS service",
-    "image": "assets/img/projects/otp.svg",
-    "tags": ["fastapi", "otp", "megafon", "sms", "auth"],
+    "image": "assets/img/projects/otp.png",
+    "tags": [
+      "fastapi",
+      "otp",
+      "megafon",
+      "sms",
+      "auth"
+    ],
     "github": null,
     "featured": true,
     "details": [
@@ -98,42 +176,34 @@
     ]
   },
   {
-    "title": "Beauty Salon Website",
-    "description": "Salon management platform with 1C",
-    "image": "assets/img/projects/beauty.svg",
-    "tags": ["fastapi", "1c","youkassa", "cdek"],
+    "title": "SMS & SimBank Software",
+    "description": "Sending and receiving SMS via SIM-bank",
+    "image": "assets/img/projects/simbank.png",
+    "tags": [
+      "gsm",
+      "simbank",
+      "telecom",
+      "backend"
+    ],
     "github": null,
     "featured": true,
     "details": [
-      "Online booking system",
-      "Bidirectional exchange with 1C",
-      "Order & client synchronization",
-      "Business workflow automation",
-    "Youkassa API",
-      "CDEK API",
-      "Russian Post API"
+      "SMS sending & receiving automation",
+      "SIM-bank management",
+      "Telecom gateway integration",
+      "High-throughput SMS processing"
     ]
-  },
-  {
-    "title": "Hackathon automation",
-    "description": "Robotics automation using Webots API МТС True Tech",
-    "image": "assets/img/projects/hackathon.svg",
-    "tags": ["hackathon", "webots", "fastapi", "unreal api"],
-    "github": null,
-    "featured": true,
-    "details": [
-      "Webots API integration",
-      "Robotics automation logic",
-      "Competition prototype development",
-      "Unreal Engine API",
-      "OBS Websocket",
-      "Docker API automation"    ]
   },
   {
     "title": "Smartphone Automation",
     "description": "Smartphone control and automation via ADB",
-    "image": "assets/img/projects/smartphone.svg",
-    "tags": ["adb", "opencv", "django", "fastapi"],
+    "image": "assets/img/projects/smartphone.png",
+    "tags": [
+      "adb",
+      "opencv",
+      "django",
+      "fastapi"
+    ],
     "github": null,
     "featured": true,
     "details": [
@@ -141,20 +211,6 @@
       "Screen recognition using OpenCV",
       "Automation scenarios",
       "Image-based interaction logic"
-    ]
-  },
-  {
-    "title": "Private Jet Booking Service",
-    "description": "Private aviation booking platform backend",
-    "image": "assets/img/projects/jet.svg",
-    "tags": ["aviation", "booking", "business", "email"],
-    "github": null,
-    "featured": true,
-    "details": [
-      "Jet booking workflow",
-      "Order lifecycle management",
-      "Business logic & pricing rules",
-      "API-driven architecture"
     ]
   }
 ]
