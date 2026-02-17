@@ -24,16 +24,16 @@
     "level": 87
   },
   {
-    "name": "MongoDB",
-    "level": 55
-  },
-  {
     "name": "RestAPI",
     "level": 85
   },
   {
     "name": "Selenium",
     "level": 75
+  },
+  {
+    "name": "MongoDB",
+    "level": 55
   },
   {
     "name": "Sentry",
@@ -81,15 +81,15 @@
   },
   {
     "name": "SQLAlchemy",
-    "level": 90
-  },
-  {
-    "name": "Django",
     "level": 100
   },
   {
+    "name": "Django",
+    "level": 110
+  },
+  {
     "name": "DRF",
-    "level": 75
+    "level": 80
   },
   {
     "name": "Webots",
@@ -135,17 +135,30 @@
     "name": "Taskiq",
     "level": 25
   },
+
+  {
+    "name": "OTP",
+    "level": 30
+  },
   {
     "name": "Clean Architecture",
-    "level": 60
+    "level": 50
   },
   {
     "name": "HttpX",
-    "level": 55
+    "level": 75
   },
   {
     "name": "SQL",
     "level": 100
+  },
+  {
+    "name": "Asyncio",
+    "level": 70
+  },
+  {
+    "name": "Pytest",
+    "level": 50
   },
   {
     "name": "Nginx",
@@ -155,18 +168,7 @@
     "name": "Proxy",
     "level": 45
   },
-  {
-    "name": "Asyncio",
-    "level": 40
-  },
-  {
-    "name": "Pytest",
-    "level": 40
-  },
-  {
-    "name": "OTP",
-    "level": 35
-  },
+
   {
     "name": "Flask",
     "level": 10
