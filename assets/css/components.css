@@ -67,3 +67,24 @@
     color: var(--text-muted);
     margin: 4px 4px 0 0;
 }
+
+.tag-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    justify-content: center;
+    line-height: 1.4;
+    padding-top: 20px;
+}
+
+.tag-cloud__item {
+    cursor: default;
+    font-weight: 600;
+    color: var(--text-muted);
+    transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.tag-cloud__item:hover {
+    transform: scale(1.08);
+    opacity: 1;
+}

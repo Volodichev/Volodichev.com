@@ -1,0 +1,174 @@
+[
+  {
+    "name": "PostgreSQL",
+    "level": 90
+  },
+  {
+    "name": "Python",
+    "level": 160
+  },
+  {
+    "name": "FastAPI",
+    "level": 140
+  },
+  {
+    "name": "SQLAlchemy",
+    "level": 90
+  },
+  {
+    "name": "Django",
+    "level": 120
+  },
+  {
+    "name": "DRF",
+    "level": 88
+  },
+  {
+    "name": "Docker",
+    "level": 85
+  },
+  {
+    "name": "Docker Compose",
+    "level": 35
+  },
+  {
+    "name": "Git",
+    "level": 60
+  },
+  {
+    "name": "Celery",
+    "level": 50
+  },
+  {
+    "name": "Redis",
+    "level": 80
+  },
+  {
+    "name": "MongoDB",
+    "level": 55
+  },
+  {
+    "name": "RestAPI",
+    "level": 55
+  },
+  {
+    "name": "Selenium",
+    "level": 65
+  },
+  {
+    "name": "VK API",
+    "level": 87
+  },
+  {
+    "name": "Telegram API",
+    "level": 87
+  },
+  {
+    "name": "Telethon/Pytogram",
+    "level": 57
+  },
+  {
+    "name": "CI/CD",
+    "level": 48
+  },
+  {
+    "name": "Sentry",
+    "level": 35
+  },
+  {
+    "name": "1C",
+    "level": 80
+  },
+  {
+    "name": "YouKassa",
+    "level": 50
+  },
+  {
+    "name": "CDEK",
+    "level": 45
+  },
+  {
+    "name": "OpenCV",
+    "level": 60
+  },
+  {
+    "name": "Webots",
+    "level": 55
+  },
+  {
+    "name": "Unreal API",
+    "level": 45
+  },
+  {
+    "name": "ADB",
+    "level": 25
+  },
+  {
+    "name": "Tkinter",
+    "level": 50
+  },
+  {
+    "name": "pyQT",
+    "level": 40
+  },
+  {
+    "name": "RabbitMQ",
+    "level": 15
+  },
+  {
+    "name": "Kafka",
+    "level": 20
+  },
+  {
+    "name": "Taskiq",
+    "level": 40
+  },
+  {
+    "name": "Aiogram",
+    "level": 40
+  },
+  {
+    "name": "Pydantic",
+    "level": 90
+  },
+  {
+    "name": "Aiohttp",
+    "level": 40
+  },
+  {
+    "name": "HttpX",
+    "level": 40
+  },
+  {
+    "name": "SQL",
+    "level": 100
+  },
+  {
+    "name": "Nginx",
+    "level": 40
+  },
+  {
+    "name": "Asyncio",
+    "level": 40
+  },
+  {
+    "name": "Pytest",
+    "level": 40
+  },
+  {
+    "name": "OTP",
+    "level": 40
+  },
+  {
+    "name": "Flask",
+    "level": 10
+  },
+  {
+    "name": "Clean Architecture",
+    "level": 10
+  },
+  {
+    "name": "Proxy",
+    "level": 10
+  }
+]
