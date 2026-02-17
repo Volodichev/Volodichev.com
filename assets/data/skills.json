@@ -1,33 +1,5 @@
 [
   {
-    "name": "PostgreSQL",
-    "level": 90
-  },
-  {
-    "name": "Python",
-    "level": 160
-  },
-  {
-    "name": "FastAPI",
-    "level": 140
-  },
-  {
-    "name": "SQLAlchemy",
-    "level": 90
-  },
-  {
-    "name": "Django",
-    "level": 120
-  },
-  {
-    "name": "DRF",
-    "level": 88
-  },
-  {
-    "name": "Docker",
-    "level": 85
-  },
-  {
     "name": "Docker Compose",
     "level": 35
   },
@@ -40,8 +12,16 @@
     "level": 50
   },
   {
+    "name": "Docker",
+    "level": 85
+  },
+  {
     "name": "Redis",
     "level": 80
+  },
+  {
+    "name": "VK API",
+    "level": 87
   },
   {
     "name": "MongoDB",
@@ -49,35 +29,35 @@
   },
   {
     "name": "RestAPI",
-    "level": 55
+    "level": 85
   },
   {
     "name": "Selenium",
-    "level": 65
-  },
-  {
-    "name": "VK API",
-    "level": 87
-  },
-  {
-    "name": "Telegram API",
-    "level": 87
-  },
-  {
-    "name": "Telethon/Pytogram",
-    "level": 57
-  },
-  {
-    "name": "CI/CD",
-    "level": 48
+    "level": 75
   },
   {
     "name": "Sentry",
     "level": 35
   },
   {
+    "name": "CI/CD",
+    "level": 48
+  },
+  {
+    "name": "Telethon/Pyrogram",
+    "level": 57
+  },
+  {
+    "name": "Telegram API",
+    "level": 87
+  },
+  {
     "name": "1C",
     "level": 80
+  },
+  {
+    "name": "OpenCV",
+    "level": 60
   },
   {
     "name": "YouKassa",
@@ -88,56 +68,80 @@
     "level": 45
   },
   {
-    "name": "OpenCV",
-    "level": 60
-  },
-  {
-    "name": "Webots",
-    "level": 55
-  },
-  {
-    "name": "Unreal API",
-    "level": 45
-  },
-  {
-    "name": "ADB",
-    "level": 25
-  },
-  {
-    "name": "Tkinter",
-    "level": 50
-  },
-  {
-    "name": "pyQT",
-    "level": 40
-  },
-  {
-    "name": "RabbitMQ",
-    "level": 15
-  },
-  {
-    "name": "Kafka",
-    "level": 20
-  },
-  {
-    "name": "Taskiq",
-    "level": 40
-  },
-  {
-    "name": "Aiogram",
-    "level": 40
-  },
-  {
-    "name": "Pydantic",
+    "name": "PostgreSQL",
     "level": 90
   },
   {
+    "name": "FastAPI",
+    "level": 140
+  },
+  {
+    "name": "Python",
+    "level": 170
+  },
+  {
+    "name": "SQLAlchemy",
+    "level": 90
+  },
+  {
+    "name": "Django",
+    "level": 100
+  },
+  {
+    "name": "DRF",
+    "level": 75
+  },
+  {
+    "name": "Webots",
+    "level": 15
+  },
+  {
+    "name": "Unreal API",
+    "level": 15
+  },
+  {
+    "name": "ADB",
+    "level": 45
+  },
+  {
+    "name": "Tkinter",
+    "level": 55
+  },
+  {
+    "name": "pyQT",
+    "level": 50
+  },
+  {
+    "name": "Aiogram",
+    "level": 95
+  },
+  {
+    "name": "Pydantic",
+    "level": 95
+  },
+  {
     "name": "Aiohttp",
-    "level": 40
+    "level": 65
+  },
+  {
+    "name": "RabbitMQ",
+    "level": 35
+  },
+  {
+    "name": "Kafka",
+    "level": 24
+  },
+  {
+    "name": "Taskiq",
+    "level": 25
+  },
+  {
+    "name": "Clean Architecture",
+    "level": 60
   },
   {
     "name": "HttpX",
-    "level": 40
+    "level": 55
   },
   {
     "name": "SQL",
@@ -146,6 +150,10 @@
   {
     "name": "Nginx",
     "level": 40
+  },
+  {
+    "name": "Proxy",
+    "level": 45
   },
   {
     "name": "Asyncio",
@@ -157,18 +165,10 @@
   },
   {
     "name": "OTP",
-    "level": 40
+    "level": 35
   },
   {
     "name": "Flask",
-    "level": 10
-  },
-  {
-    "name": "Clean Architecture",
-    "level": 10
-  },
-  {
-    "name": "Proxy",
     "level": 10
   }
 ]
